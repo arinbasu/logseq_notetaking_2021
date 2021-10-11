@@ -1,0 +1,3 @@
+- At first when I went gradeless, it was difficult for students to understand what I was doing
+- I had to write a lot of explanatory notes as to what I was expecting them to do
+- One postgraduate student even argued with me in the class that she was more comfortable in the traditional way where she would submit an assignment and th
