@@ -1,0 +1,4 @@
+- https://duckduckgo.com/?q=how+to+create+a+progressive+web+app+from+a+webpage&t=vivaldi&ia=web
+- https://blog.heroku.com/how-to-make-progressive-web-app
+- https://codeburst.io/how-to-easily-turn-your-static-website-to-a-progressive-web-app-pwa-b0af08da9693
+-
