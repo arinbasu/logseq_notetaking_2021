@@ -1,0 +1,15 @@
+- [[fleeting notes]]
+- It connects to fleeting notes.
+- Magically, the backlinks appear in the fleeting notes
+- A good thing about logseq is that, it allows forward and backlinks and show up in the same page
+- ((6163cc5f-7bc3-4914-8b90-6e5ef7a7f1e4))
+- That above is  block reference that gets added when I type two parentheses
+- Internal links get added when I type two square brackets
+- If I want to embed entire blocks, I do:
+- {{embed ((6163e71f-28e1-4257-85d4-562da011bba0))}}
+- I can create a hashtag, so for this page if I want to create a hashtag of #tutorial I can create it
+- If I click on the hashtag, in the page it will open in the right hand side pane, I will see the page and then within the page the block that references it or where this hashtag can be found
+- [[learning]] about logseq
+-
+-
+-
