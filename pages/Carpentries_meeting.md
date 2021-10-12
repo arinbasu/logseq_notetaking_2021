@@ -1,0 +1,14 @@
+- https://missing.csail.mit.edu
+- https://jennajordan.me/projects/carpentries-workshops
+- https://merely-useful.tech/py-rse/
+- Experiments that other people are doing
+- Scheduling has become easier
+- Pick up a few students I am going to use a few students and teach them, and the rest of the class will look on. The rest of the class can ask questions, and watch.
+	- Innovation happens in the margins
+	- Normalising the things we are inventing
+		-
+	- [[thinking of Jabref]]
+	- Aim is to raise the floor, not the ceiling!
+	- “Our aim is not to raise the ceiling - our aim is to raise the floor.” - an early Software Carpentry grant proposal
+	- [[idea for a research proposal]]
+	-
