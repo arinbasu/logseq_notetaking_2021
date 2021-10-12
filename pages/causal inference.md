@@ -1,0 +1,2 @@
+- ![These aren't the effects you're looking for.pdf](../assets/These_aren't_the_effects_you're_looking_for_1634001689977_0.pdf)
+-
