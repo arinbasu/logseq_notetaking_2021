@@ -1,0 +1,15 @@
+- Zotero is exclusively for literature notes
+- Literature notes are NOT:
+	- Just Summaries of the source
+	- Summaries + quotes!
+	- Tagged
+	- Incomplete sentences
+	- Not stream of consciousness stuff!
+- Literature note ARE:
+	- Own words
+	- Thoughts that extend the argument
+	- Can incorporate the scribblings and notes
+	- Scribblings and notes can live in the fleeting notes
+	- I need to do a massive cleaning of my Zotero database
+- The [[fleeting notes]] and the [[literature notes]] together will form the [[Permanent notes]]
+-

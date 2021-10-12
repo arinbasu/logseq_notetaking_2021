@@ -1,0 +1,5 @@
+- papers:
+- https://www.jessestommel.com/ungrading-an-introduction/
+- https://www.jessestommel.com/ungrading-a-bibliography/
+- https://www.jessestommel.com/ungrading-an-faq/
+-

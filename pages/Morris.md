@@ -1,0 +1,3 @@
+- Papers
+- https://www.seanmichaelmorris.com/a-primer-for-the-progressive-educator/
+-
