@@ -7,7 +7,7 @@
 	- Innovation happens in the margins
 	- Normalising the things we are inventing
 		-
-	- [[thinking of Jabref]]
+	- [[Thinking of Jabref]]
 	- Aim is to raise the floor, not the ceiling!
 	- “Our aim is not to raise the ceiling - our aim is to raise the floor.” - an early Software Carpentry grant proposal
 	- [[idea for a research proposal]]
