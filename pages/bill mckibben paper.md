@@ -1,1 +1,2 @@
-- (Read the bill mckibben paper and make notes directl on the pdf then copy paste those annotations from Jabref to here, and write your own thoughts; read four more important papers)
+- (Read the bill mckibben paper and make notes directl on the pdf then copy paste those annotations from Jabref to here, and write your own thoughts; read four more important papers, and then craft a permanent note on some of the topics in Curvenote and create a series of idea based permanent notes; these will then go to form the final paper or lecture for Monday)
+- Time taken to read: 17 pp:
