@@ -16,3 +16,9 @@
   Page: 6,
   Content: ,
   Marking: carbon dioxide is currently on a path to hiti  500 or 600 parts per million by century’s end
+- Author: Arindam Bose,
+  Date: 2021-10-15 00:25:36,
+  Page: 12,
+  Content: Bill McKibben argues that climate change and global warming is like a war waged on humanity. He argues that this enemy is invisible and unless the United States does “something about it” on a war footing they did during the second world war, climate change forces will win. There are already signs of it: the polar ice caps are melting fast, the coral reefs are disappearing and the Antarctic ice caps are meltng; the metaphor that Bill McKibben uses are powerful metaphors and this must be taken into account. His argument is that, if more solar power plants are established and renewable energy firms are established under public sector, it will help to reduce carbon emissions, but the window of irreversible climate change window is closing on humanity and needs a war footing to combat it.,
+  Marking:
+-
