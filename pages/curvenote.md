@@ -1,4 +1,4 @@
 - Curvenote is a useful tool and works as follows
--
+- How curvenote serves as a zettelkasten system
 - [[draws/2021-10-15-22-12-01.excalidraw]]
 -
