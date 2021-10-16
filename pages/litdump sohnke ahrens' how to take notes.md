@@ -6,6 +6,7 @@
 - Best way to create notes is to use Zettelkasten method
 - Lessons on styles and psychological boosts will not help people to avoid the problem of looking at blank sheets
 - Essentially lays the argument here is that if you think and need to connect various pieces together, then you need a structure to do so. It is true for almost all data based disciplines, where connecting diverse worlds is a need. Also true for epidemiology and medicine, etc. (note on p.169)
+- Put your ideas in individual slip boxes and connect your ideas with tags and other connections you find and with references. Do that at note-taking level and regularly.
 -
 - Books and guides that teach students how to write papers fall roughly into two categories.
 - The first teaches the formal requirements: style, structure or how to quote correctly.
@@ -137,7 +138,7 @@
   https://www.zettlr.com
   @ahrens_2017 (this one)
   
-  Put your ideas in individual slip boxes and connect your ideas with tags and other connections you find and with references. Do that at note-taking level and regularly. (note on p.170)
+  (note on p.170)
   
   "change your daily routines" (Ahrens 2017:170)
   c1n8-daily-routine
