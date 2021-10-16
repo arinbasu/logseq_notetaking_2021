@@ -1,0 +1,7 @@
+- paper by margaretprocter where she talks about how to design assignments that will make it useful for the students to learn about a subject while writing about them in the assignment.
+- she outlined the following strategies
+- - create a classroom where you distribute to the students their samples of work
+  - Then let each student critique each other
+- When the lecture ends ask the students to write a two minute paper, basically a paper where for two minutes, the students answer questions like what did they learn over the class period and what questions do they have
+- [[litdump sohnke ahrens' how to take notes]]
+-
