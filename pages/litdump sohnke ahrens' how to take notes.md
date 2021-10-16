@@ -1,6 +1,8 @@
 - Book notes on How to take notes
-  
-  (How to process this: read and cut short to create a literature note in your own words. Remember that a copy of this already exists iin Zotero db; here, the idea is to shorten it to literature note: then mix it and separate ideas are stored in PKM vault of Curvenote)
+- [[summary]
+- ]
+- [[summary]]
+- (How to process this: read and cut short to create a literature note in your own words. Remember that a copy of this already exists iin Zotero db; here, the idea is to shorten it to literature note: then mix it and separate ideas are stored in PKM vault of Curvenote)
 - Basically he argues that no one writes from a blank sheet of paper.
 - Create your own set of notes
 - Best way to create notes is to use Zettelkasten method
