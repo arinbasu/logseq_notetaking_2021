@@ -5,6 +5,7 @@
 - Create your own set of notes
 - Best way to create notes is to use Zettelkasten method
 - Lessons on styles and psychological boosts will not help people to avoid the problem of looking at blank sheets
+- Essentially lays the argument here is that if you think and need to connect various pieces together, then you need a structure to do so. It is true for almost all data based disciplines, where connecting diverse worlds is a need. Also true for epidemiology and medicine, etc. (note on p.169)
 -
 - Books and guides that teach students how to write papers fall roughly into two categories.
 - The first teaches the formal requirements: style, structure or how to quote correctly.
@@ -98,7 +99,7 @@
   
   src: pp14
   
-  Essentially lays the argument here is that if you think and need to connect various pieces together, then you need a structure to do so. It is true for almost all data based disciplines, where connecting diverse worlds is a need. Also true for epidemiology and medicine, etc. (note on p.169)
+  
   
   "insight doesn’t come easy and that writing is not only for proclaiming opinions, but the main tool to achieve insight worth sharing." (Ahrens 2017:169)
   n6-writing-insight
