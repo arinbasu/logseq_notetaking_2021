@@ -157,7 +157,7 @@
   Tendency to drag us down to the path we have been before
   Feels artificial at first
   Work must be interlocked
-  So this note taking process across an article can be repeated across many articles and then articles and notes can be joined, not just articles. So article-chapter-section-note- everything gets joined with each otehr and new knowledge emerges.
+  
   Wow! (note on p.170)
   
   "might feel artificial at first and not necessarily like what you intuitively would do." (Ahrens 2017:171)
