@@ -7,7 +7,7 @@
 - Lessons on styles and psychological boosts will not help people to avoid the problem of looking at blank sheets
 - Essentially lays the argument here is that if you think and need to connect various pieces together, then you need a structure to do so. It is true for almost all data based disciplines, where connecting diverse worlds is a need. Also true for epidemiology and medicine, etc. (note on p.169)
 - Put your ideas in individual slip boxes and connect your ideas with tags and other connections you find and with references. Do that at note-taking level and regularly.
--
+- So this note taking process across an article can be repeated across many articles and then articles and notes can be joined, not just articles. So article-chapter-section-note- everything gets joined with each otehr and new knowledge emerges.
 - Books and guides that teach students how to write papers fall roughly into two categories.
 - The first teaches the formal requirements: style, structure or how to quote correctly.
 - And then there are the psychological ones, which teach you how to get it done without mental breakdowns and before your supervisor or publisher starts refusing to move the deadline once more. 
