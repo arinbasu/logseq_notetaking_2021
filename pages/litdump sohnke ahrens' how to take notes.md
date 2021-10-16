@@ -4,15 +4,16 @@
 - Basically he argues that no one writes from a blank sheet of paper.
 - Create your own set of notes
 - Best way to create notes is to use Zettelkasten method
-- Lessons on styles and psychological boosts will not help people
+- Lessons on styles and psychological boosts will not help people to avoid the problem of looking at blank sheets
+-
 - Books and guides that teach students how to write papers fall roughly into two categories.
 - The first teaches the formal requirements: style, structure or how to quote correctly.
 - And then there are the psychological ones, which teach you how to get it done without mental breakdowns and before your supervisor or publisher starts refusing to move the deadline once more. 
-  What they all have in common, though, is that [1] they start with a blank screen or sheet of paper." (Ahrens 2017:163)
+  What they all have in common, though, is that [1] they start with a blank screen or sheet of paper."
   
   https://writing.utoronto.ca/wp-content/uploads/designing-assignments.pdf (note on p.163)
    see [[Designing assignment litnotes]]
-- "improving the organisation of all writing makes a difference." (Ahrens 2017:163)
+- "improving the organisation of all writing makes a difference."
   "process of writing starts much, much earlier than that blank screen and that the actual writing down of the argument is the smallest part of its development." (Ahrens 2017:163)
   c0n2-cog
   #howto
