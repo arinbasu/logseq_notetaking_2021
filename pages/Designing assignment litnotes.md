@@ -2,7 +2,7 @@
 - she outlined the following strategies
 - - create a classroom where you distribute to the students their samples of work
   - Then let each student critique each other
-- When the lecture ends ask the students to write a two minute paper
+- When the lecture ends ask the students to write a two minute paper, basically a paper where for two minutes, the students answer questions like what did they learn over the class period and what questions do they have
 - Author: arinbasu,
   Date: 2021-10-16 16:17:34,
   Page: 2,
