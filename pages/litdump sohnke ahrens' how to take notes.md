@@ -1,9 +1,8 @@
 - Book notes on How to take notes
   
   (How to process this: read and cut short to create a literature note in your own words. Remember that a copy of this already exists iin Zotero db; here, the idea is to shorten it to literature note: then mix it and separate ideas are stored in PKM vault of Curvenote)
-  
-  
-  Books and guides that teach students how to write papers fall roughly into two categories.
+- Basically
+- Books and guides that teach students how to write papers fall roughly into two categories.
 - The first teaches the formal requirements: style, structure or how to quote correctly.
 - And then there are the psychological ones, which teach you how to get it done without mental breakdowns and before your supervisor or publisher starts refusing to move the deadline once more. 
   What they all have in common, though, is that [1] they start with a blank screen or sheet of paper." (Ahrens 2017:163)
