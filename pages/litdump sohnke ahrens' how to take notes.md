@@ -8,6 +8,7 @@
 - Essentially lays the argument here is that if you think and need to connect various pieces together, then you need a structure to do so. It is true for almost all data based disciplines, where connecting diverse worlds is a need. Also true for epidemiology and medicine, etc. (note on p.169)
 - Put your ideas in individual slip boxes and connect your ideas with tags and other connections you find and with references. Do that at note-taking level and regularly.
 - So this note taking process across an article can be repeated across many articles and then articles and notes can be joined, not just articles. So article-chapter-section-note- everything gets joined with each otehr and new knowledge emerges.
+- So the mainbox will contain notes on what I have read; this could be short notes. From many sources. What I am reading here on the notes here on the pdf stays here but can be ported or notes consulted. Then the thoughts from these sets of notes or summaries go into the zettels that are contained in my Dropbox zettlr folder through zettlr or orgmode. Or even through hackmd or through jupyter notebooks then converted to markdown files and apporpriately id-ed, tagged, connected, referenced
 - Books and guides that teach students how to write papers fall roughly into two categories.
 - The first teaches the formal requirements: style, structure or how to quote correctly.
 - And then there are the psychological ones, which teach you how to get it done without mental breakdowns and before your supervisor or publisher starts refusing to move the deadline once more. 
@@ -266,7 +267,7 @@
   zettlr
   zotero
   
-  So the mainbox will contain notes on what I have read; this could be short notes. From many sources. What I am reading here on the notes here on the pdf stays here but can be ported or notes consulted. Then the thoughts from these sets of notes or summaries go into the zettels that are contained in my Dropbox zettlr folder through zettlr or orgmode. Or even through hackmd or through jupyter notebooks then converted to markdown files and apporpriately id-ed, tagged, connected, referenced. 
+  . 
   (note on p.178)
   
   "More often than not, a new note would directly follow up on another note and would become part of a longer chain of notes. He then would add references to notes somewhere else in the slip-box, some of them which were located nearby, others in completely different areas and contexts." (Ahrens 2017:178)
