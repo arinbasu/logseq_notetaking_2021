@@ -1,76 +1,210 @@
-<<<<<<< HEAD
-[{:block/name "a",
+[{:block/name "structure",
+  :block/created-at 1634362931971,
+  :block/updated-at 1634362931971}
+ {:block/name "insight",
+  :block/created-at 1634362931971,
+  :block/updated-at 1634362931971}
+ {:block/name "luhmann",
+  :block/created-at 1634362931971,
+  :block/updated-at 1634362931971}
+ {:block/name "a",
   :block/created-at 1633984713217,
   :block/updated-at 1633984713217}
+ {:block/name "regular",
+  :block/created-at 1634362931971,
+  :block/updated-at 1634362931971}
+ {:block/name "thinking of jabref",
+  :block/created-at 1634362931971,
+  :block/updated-at 1634362931971}
  {:block/name "oct 16th, 2021",
-  :block/created-at 1634342400000,
-  :block/updated-at 1634342400000}
+  :block/created-at 1634354419703,
+  :block/updated-at 1634354422368}
+ {:block/name "link",
+  :block/created-at 1634362931971,
+  :block/updated-at 1634362931971}
  {:block/name "students did not understand",
   :block/created-at 1633985294706,
   :block/updated-at 1633985516282}
  {:block/name "wait",
   :block/created-at 1633984713217,
   :block/updated-at 1633984713217}
+ {:block/name "productivity ideas",
+  :block/created-at 1634362931972,
+  :block/updated-at 1634362931972}
+ {:block/name "dontcram",
+  :block/created-at 1634362931972,
+  :block/updated-at 1634362931972}
+ {:block/name "litdump sohnke ahrens' how to take notes",
+  :block/created-at 1634355377865,
+  :block/updated-at 1634362755398}
  {:block/name "how to create progressive web apps",
-  :block/created-at 1634353393038,
-  :block/updated-at 1634353393038}
+  :block/created-at 1634362931972,
+  :block/updated-at 1634362931972}
+ {:block/name "interlocking",
+  :block/created-at 1634362931972,
+  :block/updated-at 1634362931972}
+ {:block/name "connecting",
+  :block/created-at 1634362931972,
+  :block/updated-at 1634362931972}
  {:block/name "contents",
   :block/created-at 1633984713217,
   :block/updated-at 1633984713217}
+ {:block/name "draws/2021-10-13-18-32-46.excalidraw",
+  :block/created-at 1634362931972,
+  :block/updated-at 1634362931972}
+ {:block/name "fixed-mindset",
+  :block/created-at 1634362931972,
+  :block/updated-at 1634362931972}
+ {:block/name "feynmann",
+  :block/created-at 1634362931972,
+  :block/updated-at 1634362931972}
+ {:block/name "twoslipboxes",
+  :block/created-at 1634362931972,
+  :block/updated-at 1634362931972}
+ {:block/name "ideas",
+  :block/created-at 1634362931972,
+  :block/updated-at 1634362931972}
+ {:block/name "research",
+  :block/created-at 1634362931972,
+  :block/updated-at 1634362931972}
+ {:block/name "searching",
+  :block/created-at 1634362931972,
+  :block/updated-at 1634362931972}
  {:block/name "permanent notes",
-  :block/created-at 1634353393038,
-  :block/updated-at 1634353393038}
+  :block/created-at 1634362931972,
+  :block/updated-at 1634362931972}
  {:block/name "literature notes",
-  :block/created-at 1634353393038,
-  :block/updated-at 1634353393038}
+  :block/created-at 1634362931972,
+  :block/updated-at 1634362931972}
+ {:block/name "zettel",
+  :block/created-at 1634362931972,
+  :block/updated-at 1634362931972}
+ {:block/name "context",
+  :block/created-at 1634362931972,
+  :block/updated-at 1634362931972}
+ {:block/name "oct 13th, 2021",
+  :block/created-at 1634083200000,
+  :block/updated-at 1634083200000}
+ {:block/name "designing assignment litnotes",
+  :block/created-at 1634354442934,
+  :block/updated-at 1634360915088}
+ {:block/name "daily",
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931973}
  {:block/name "learning",
   :block/created-at 1633984713218,
   :block/updated-at 1633984713218}
+ {:block/name "collection",
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931973}
+ {:block/name "zettelkasten_idea",
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931973}
+ {:block/name "sohnke ahrens' how to take notes",
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931973}
+ {:block/name "covid19",
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931973}
+ {:block/name "notetaking",
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931973}
+ {:block/name "brainstorming",
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931973}
  {:block/name "card",
   :block/created-at 1633984713217,
   :block/updated-at 1633984713217}
+ {:block/name "simplicity",
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931973}
+ {:block/name "fleeting",
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931973}
  {:block/name "thoughts",
-  :block/created-at 1634353393038,
-  :block/updated-at 1634353393038}
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931973}
  {:block/name "morris",
   :block/created-at 1633985483029,
   :block/updated-at 1633985483604}
  {:block/name "had to improvise",
   :block/created-at 1634001893207,
   :block/updated-at 1634001893207}
+ {:block/name "growth-mindset",
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931973}
  {:block/name "testing",
   :block/created-at 1634001893207,
   :block/updated-at 1634001893207}
+ {:block/name "connections",
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931973}
  {:block/name "build mastery rubric style teaching",
   :block/created-at 1634001893207,
   :block/updated-at 1634001893207}
+ {:block/name "dweck",
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931973}
  {:block/name "carpentries style",
   :block/created-at 1634001893207,
   :block/updated-at 1634001893207}
  {:block/name "how to take notes",
   :block/created-at 1633984713218,
   :block/updated-at 1633984713218}
+ {:block/name "draws/2021-10-13-18-43-39.excalidraw",
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931973}
+ {:block/name "collecting",
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931973}
+ {:block/name "mental-models",
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931973}
  {:block/name "gradeless",
   :block/created-at 1634001893207,
   :block/updated-at 1634001893207}
  {:block/name "doing",
   :block/created-at 1633984713217,
   :block/updated-at 1633984713217}
+ {:block/name "marking",
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931973}
  {:block/name "jesse stommel",
   :block/created-at 1633985451617,
   :block/updated-at 1633985452278}
+ {:block/name "thinking-patterns",
+  :block/created-at 1634362931973,
+  :block/updated-at 1634362931974}
  {:block/name "oct 12th, 2021",
   :block/created-at 1633985282011,
   :block/updated-at 1633985430786}
+ {:block/name "bill mckibben paper",
+  :block/created-at 1634362931974,
+  :block/updated-at 1634362931974}
  {:block/name "causal inference",
   :block/created-at 1634001690521,
   :block/updated-at 1634001727744}
+ {:block/name "oct 15th, 2021",
+  :block/created-at 1634256000000,
+  :block/updated-at 1634256000000}
  {:block/name "later",
   :block/created-at 1633984713217,
   :block/updated-at 1633984713217}
+ {:block/name "howto",
+  :block/created-at 1634362931974,
+  :block/updated-at 1634362931974}
+ {:block/name "twobox",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
  {:block/name "oct 11th, 2021",
   :block/created-at 1633910400000,
   :block/updated-at 1633910400000}
+ {:block/name "grow",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "idea",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
  {:block/name "fleeting notes",
   :block/created-at 1633984713218,
   :block/updated-at 1633984713218}
@@ -80,46 +214,175 @@
  {:block/name "test",
   :block/created-at 1634001893207,
   :block/updated-at 1634001893207}
+ {:block/name "limitations",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "zettelkasten",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "bibliography",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "life",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "bibbox",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
  {:block/name "causality paper",
-  :block/created-at 1634353393038,
-  :block/updated-at 1634353393038}
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
  {:block/name "b",
   :block/created-at 1633984713218,
   :block/updated-at 1633984713218}
+ {:block/name "mindless",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "connectedness",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "permanent",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "climate change",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
  {:block/name "todo",
   :block/created-at 1633984713218,
   :block/updated-at 1633984713218}
+ {:block/name "draws/2021-10-13-19-03-07.excalidraw",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "mainbox",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
  {:block/name "favorites",
   :block/created-at 1633984713218,
   :block/updated-at 1633984713218}
+ {:block/name "network",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
  {:block/name "done",
   :block/created-at 1633984713218,
   :block/updated-at 1633984713218}
  {:block/name "c",
   :block/created-at 1633984713218,
   :block/updated-at 1633984713218}
+ {:block/name "rstudio workflow",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "against grading rubrics",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "transfer",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "capture",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "disciplinary",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "carpentries_meeting",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "organising",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "thinking",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "onething",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "types",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "spontaneity",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
  {:block/name "obsidian",
-  :block/created-at 1634353393039,
-  :block/updated-at 1634353393039}
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "contexts",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "routines",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
  {:block/name "tutorial",
   :block/created-at 1633984713218,
   :block/updated-at 1633984713218}
  {:block/name "waiting",
   :block/created-at 1633984713218,
   :block/updated-at 1633984713218}
+ {:block/name "slipbox",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "summary",
+  :block/created-at 1634362762487,
+  :block/updated-at 1634362889954}
+ {:block/name "process",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "transferring",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "idea for a research proposal",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "tagging",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
  {:block/name
   "../assets/these_aren't_the_effects_you're_looking_for_1634001689977_0.pdf",
   :block/created-at 1634001893207,
   :block/updated-at 1634001893207}
+ {:block/name "notes",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
  {:block/name "zotero",
-  :block/created-at 1634353393039,
-  :block/updated-at 1634353393039}
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "planning",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "attention",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "writing",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
  {:block/name "in-progress",
   :block/created-at 1633984713218,
   :block/updated-at 1633984713218}
+ {:block/name "feedback",
+  :block/created-at 1634362931975,
+  :block/updated-at 1634362931975}
+ {:block/name "oct 14th, 2021",
+  :block/created-at 1634169600000,
+  :block/updated-at 1634169600000}
+ {:block/name "litnotes_missing_variance",
+  :block/created-at 1634362931976,
+  :block/updated-at 1634362931976}
+ {:block/name "litdumpsohnke ahrens' how to take notes",
+  :block/created-at 1634362931976,
+  :block/updated-at 1634362931976}
+ {:block/name "onebox",
+  :block/created-at 1634362931976,
+  :block/updated-at 1634362931976}
+ {:block/name "routine",
+  :block/created-at 1634362931976,
+  :block/updated-at 1634362931976}
  {:block/name "now",
-  :block/created-at 1633984713218, 
-  :block/updated-at 1633984713218}]
-=======
-[{:block/name "carpentries_meeting", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "waiting", :block/created-at 1633984713218, :block/updated-at 1633984713218} {:block/name "wait", :block/created-at 1633984713217, :block/updated-at 1633984713217} {:block/name "covid19", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "a", :block/created-at 1633984713217, :block/updated-at 1633984713217} {:block/name "hls__these_aren't_the_effects_you're_looking_for_1634001689977_0", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "students did not understand", :block/created-at 1633985294706, :block/updated-at 1633985516282} {:block/name "morris", :block/created-at 1633985483029, :block/updated-at 1633985483604} {:block/name "causal inference", :block/created-at 1634001690521, :block/updated-at 1634001727744} {:block/name "productivity ideas", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "against grading rubrics", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "draws/2021-10-13-18-43-39.excalidraw", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "jesse stommel", :block/created-at 1633985451617, :block/updated-at 1633985452278} {:block/name "climate change", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "how to take notes", :block/created-at 1633984713218, :block/updated-at 1633984713218} {:block/name "thinking of jabref", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "had to improvise", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "build mastery rubric style teaching", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "card", :block/created-at 1633984713217, :block/updated-at 1633984713217} {:block/name "carpentries style", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "rstudio workflow", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "done", :block/created-at 1633984713218, :block/updated-at 1633984713218} {:block/name "now", :block/created-at 1633984713218, :block/updated-at 1633984713218} {:block/name "gradeless", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "test", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "zotero", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "c", :block/created-at 1633984713218, :block/updated-at 1633984713218} {:block/name "causality paper", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "draws/2021-10-13-19-03-07.excalidraw", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "zettelkasten_idea", :block/created-at 1634206111501, :block/updated-at 1634206111501} {:block/name "oct 12th, 2021", :block/created-at 1633996800000, :block/updated-at 1633996800000} {:block/name "later", :block/created-at 1633984713217, :block/updated-at 1633984713217} {:block/name "in-progress", :block/created-at 1633984713218, :block/updated-at 1633984713218} {:block/name "tutorial", :block/created-at 1633984713218, :block/updated-at 1633984713218} {:block/name "learning", :block/created-at 1633984713218, :block/updated-at 1633984713218} {:block/name "favorites", :block/created-at 1633984713218, :block/updated-at 1633984713218} {:block/name "contents", :block/created-at 1633984713217, :block/updated-at 1633984713217} {:block/name "moodle was not ready", :block/created-at 1634206111504, :block/updated-at 1634206111504} {:block/name "draws/2021-10-13-18-32-46.excalidraw", :block/created-at 1634206111504, :block/updated-at 1634206111504} {:block/name "../assets/these_aren't_the_effects_you're_looking_for_1634001689977_0.pdf", :block/created-at 1634206111504, :block/updated-at 1634206111504} {:block/name "testing", :block/created-at 1634206111504, :block/updated-at 1634206111504} {:block/name "how to create progressive web apps", :block/created-at 1634206111504, :block/updated-at 1634206111504} {:block/name "productivity", :block/created-at 1634206111504, :block/updated-at 1634206111504} {:block/name "permanent notes", :block/created-at 1634206111504, :block/updated-at 1634206111504} {:block/name "obsidian", :block/created-at 1634206111504, :block/updated-at 1634206111504} {:block/name "idea for a research proposal", :block/created-at 1634206111504, :block/updated-at 1634206111504} {:block/name "b", :block/created-at 1633984713218, :block/updated-at 1633984713218} {:block/name "oct 13th, 2021", :block/created-at 1634083200000, :block/updated-at 1634083200000} {:block/name "oct 14th, 2021", :block/created-at 1634200165960, :block/updated-at 1634200195865} {:block/name "oct 11th, 2021", :block/created-at 1633910400000, :block/updated-at 1633910400000} {:block/name "literature notes", :block/created-at 1634206111504, :block/updated-at 1634206111504} {:block/name "doing", :block/created-at 1633984713217, :block/updated-at 1633984713217} {:block/name "todo", :block/created-at 1633984713218, :block/updated-at 1633984713218} {:block/name "thoughts", :block/created-at 1634206111504, :block/updated-at 1634206111504} {:block/name "fleeting notes", :block/created-at 1633984713218, :block/updated-at 1633984713218}]
->>>>>>> 942dc8f3dc090eb9e220b079aab9d4f847660de7
+  :block/created-at 1633984713218,
+  :block/updated-at 1633984713218}
+ {:block/name "productivity",
+  :block/created-at 1634362931976,
+  :block/updated-at 1634362931976}
+ {:block/name "what",
+  :block/created-at 1634362931976,
+  :block/updated-at 1634362931976}
+ {:block/name "understanding",
+  :block/created-at 1634362931976, 
+  :block/updated-at 1634362931976}]
