@@ -352,7 +352,7 @@
   capturing device
   allengtd
   
-  So, the idea here is that use a capture device such as a notebook to capture ideas as they come and write them down. These are fleeting notes. Then there are literatur enotes like the ones I am writing now. Then there are permanent notes that should be written from the fleeting notes and the lit notes but using hte slip box and the zettels. Here one idea per note, brief, own words, and everyone will have id, connections, refs, notes, tags (note on p.183)
+  
   
   "exactly one note for each idea and write as if you were writing for someone else" (Ahrens 2017:183)
   "Making sure you will be able to find this note later by either linking to it from your index" (Ahrens 2017:183)
