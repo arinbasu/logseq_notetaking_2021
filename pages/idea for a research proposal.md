@@ -1,0 +1,6 @@
+- propose a project where we
+- run carpentries workshops
+- Offer it to undergraduate students
+- then chart the progress of undergraduate students continue to do postgraduate courses
+- book taylor and francis
+- research software engineering with python
