@@ -15,12 +15,6 @@
    see [[Designing assignment litnotes]]
 - "improving the organisation of all writing makes a difference."
   "process of writing starts much, much earlier than that blank screen and that the actual writing down of the argument is the smallest part of its development." (Ahrens 2017:163)
-  c0n2-cog
-  #howto
-  #what
-  connects_with:
-  ref_to:
-  
   Great advice that actual process of writing is a small piece of cog in the machine (note on p.163)
    
   "improvement in the way we organise the everyday writing, how we take notes of what we encounter and what we do with them, will make all the difference for the moment we do face the blank page/screen – or rather not, as those who take smart notes will never have the problem of a blank screen again." (Ahrens 2017:164)
