@@ -8,6 +8,7 @@
 - Essentially lays the argument here is that if you think and need to connect various pieces together, then you need a structure to do so. It is true for almost all data based disciplines, where connecting diverse worlds is a need. Also true for epidemiology and medicine, etc. (note on p.169)
 - Put your ideas in individual slip boxes and connect your ideas with tags and other connections you find and with references. Do that at note-taking level and regularly.
 - So this note taking process across an article can be repeated across many articles and then articles and notes can be joined, not just articles. So article-chapter-section-note- everything gets joined with each otehr and new knowledge emerges.
+- Notes are connected to contexts and notes from that context can be used in other, comparable contexts taken from other texts to be connected. Hence notes would have their own network (note on p.173)
 - So the mainbox will contain notes on what I have read; this could be short notes. From many sources. What I am reading here on the notes here on the pdf stays here but can be ported or notes consulted. Then the thoughts from these sets of notes or summaries go into the zettels that are contained in my Dropbox zettlr folder through zettlr or orgmode. Or even through hackmd or through jupyter notebooks then converted to markdown files and apporpriately id-ed, tagged, connected, referenced
 - Books and guides that teach students how to write papers fall roughly into two categories.
 - The first teaches the formal requirements: style, structure or how to quote correctly.
@@ -206,7 +207,6 @@
   refers_to:
   zettelkasten system
   
-  Notes are connected to contexts and notes from that context can be used in other, comparable contexts taken from other texts to be connected. Hence notes would have their own network (note on p.173)
   
   "slip-box became his dialogue partner, main idea generator and productivity engine." (Ahrens 2017:173)
   "While some career-oriented academics try to squeeze as many publications out of one idea as possible, Luhmann seemed to do the opposite. He constantly generated more ideas than he was able to write down. His texts read as if he is trying to squeeze as much insight and as many ideas as possible into one publication." (Ahrens 2017:174)
