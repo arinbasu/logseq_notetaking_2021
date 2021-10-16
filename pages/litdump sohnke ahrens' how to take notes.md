@@ -10,6 +10,7 @@
 - So this note taking process across an article can be repeated across many articles and then articles and notes can be joined, not just articles. So article-chapter-section-note- everything gets joined with each otehr and new knowledge emerges.
 - Notes are connected to contexts and notes from that context can be used in other, comparable contexts taken from other texts to be connected. Hence notes would have their own network (note on p.173)
 - So the mainbox will contain notes on what I have read; this could be short notes. From many sources. What I am reading here on the notes here on the pdf stays here but can be ported or notes consulted. Then the thoughts from these sets of notes or summaries go into the zettels that are contained in my Dropbox zettlr folder through zettlr or orgmode. Or even through hackmd or through jupyter notebooks then converted to markdown files and apporpriately id-ed, tagged, connected, referenced
+- The point to note here is that, everything happens around the notes rather than the book or manuscript or the article level. The notes are separated from their sources but keep the references to the sources intact. Notes then chain together, and therefore do not have to have a specific category structure. One note, one idea and how notes/zettels/idea containers were to be linked up with each other is the issue here.
 - Luhmann had two slip-boxes: a bibliographical one, which contained the references and brief notes on the content of the literature, and the main one in which he collected and generated his ideas, mainly in response to what he read." (
 - Books and guides that teach students how to write papers fall roughly into two categories.
 - The first teaches the formal requirements: style, structure or how to quote correctly.
@@ -288,7 +289,7 @@
   ahrens
   luhmann
   
-  The point to note here is that, everything happens around the notes rather than the book or manuscript or the article level. The notes are separated from their sources but keep the references to the sources intact. Notes then chain together, and therefore do not have to have a specific category structure. One note, one idea and how notes/zettels/idea containers were to be linked up with each other is the issue here. (note on p.178)
+  (note on p.178)
   
   "Whenever he added a note, he checked his slip-box for other relevant notes to make possible connections between them." (Ahrens 2017:179)
   ahr-c1n18-links
