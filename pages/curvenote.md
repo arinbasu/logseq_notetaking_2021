@@ -1,4 +1,7 @@
 - Curvenote is a useful tool and works as follows
 - How curvenote serves as a zettelkasten system
 - [[draws/2021-10-15-22-12-01.excalidraw]]
--
+- I have written that curvenote can be used to keep permanent notes in the same way that logseq can be used for fleeting and lit notes.
+- Lit notes are more reflection pieces than summaries
+- Where will summaries go? They are useful but as talking points
+- Split each book into chapters, extract notes and ideas and heavily link them across
